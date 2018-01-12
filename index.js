@@ -1,6 +1,6 @@
 // Write your solution in this file!
 
-var customerName;
+var customerName = 'bob';
 var bestCustomer;
 
 function upperCaseCustomerName(){
@@ -11,4 +11,3 @@ function upperCaseCustomerName(){
 function setBestCustomer(){
   bestCustomer = 'not bob';
 }
-
